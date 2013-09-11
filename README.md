@@ -21,8 +21,10 @@ You must have the following installed on your system:
 How To
 ------
 1. Clone this repo
-2. Modify the Vagrant file appropriately
-3. `vagrant up`
+2. `git submodule init`
+3. `git submodule update`
+4. Modify the Vagrant file appropriately
+5. `vagrant up`
 
 Resources
 ---------
