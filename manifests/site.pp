@@ -9,6 +9,8 @@ jenkins::plugin {
     'dashboard-view',
     'token-macro',
     'analysis-core',
+    'ssh-agent',
+    'ssh-credentials',
     'violations',
     'maven-plugin',
   ]:
